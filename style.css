@@ -1,0 +1,18 @@
+body {
+    background-color: #242424;
+    color: #C0C0C0;
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+a {
+    color: #C0C0C0;
+}
+
+.column {
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
